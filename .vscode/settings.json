@@ -1,0 +1,5 @@
+{
+    "ecl.launchConfiguration": "UniverstiyServer",
+    "ecl.targetCluster": {},
+    "ecl.eclccPath": "/opt/HPCCSystems/9.6.14/clienttools/bin/eclcc"
+}

@@ -1,0 +1,1 @@
+EXPORT fn_LimitValue(n, maxVal) := IF(n>maxVal, maxVal, n);

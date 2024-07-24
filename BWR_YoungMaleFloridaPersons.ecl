@@ -1,0 +1,3 @@
+import $;
+
+OUTPUT(COUNT($.YoungMaleFloridaPersons));
